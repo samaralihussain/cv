@@ -1,0 +1,22 @@
+  body {
+    background-color: #EEEEEE;
+  }
+
+  hr {
+    background-color: none;
+    border-style: none;
+    border-top: 10px dotted #00ADB5;
+    opacity: 0.2;
+  }
+
+  h1 {
+    color: #222831;
+  }
+
+  h3 {
+    color: #222831;
+  }
+
+  a:hover {
+    background-color: #00ADB5;
+  }
